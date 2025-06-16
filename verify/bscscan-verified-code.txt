@@ -1,0 +1,5 @@
+mkdir contracts
+mkdir verify
+notepad contracts\YODCOIN.sol
+notepad verify\bscscan-verified-code.txt
+notepad README.md
